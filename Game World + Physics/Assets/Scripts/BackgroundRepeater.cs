@@ -5,6 +5,7 @@ public class BackgroundRepeater : MonoBehaviour {
 	private Transform cameraTransform;
 	private float spriteWidth;
 	private float startCameraX;
+
 	// Use this for initialization
 	void Start () {
 		cameraTransform = Camera.main.transform;

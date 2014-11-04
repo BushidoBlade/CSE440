@@ -9,11 +9,6 @@ public class DKPMinus : MonoBehaviour {
 		Debug.Log ("Oh Noes You Hit The Bad Trigger. -50 DKP!");
 	}
 	
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
 	// Update is called once per frame
 	void Update () {
 		

@@ -9,11 +9,6 @@ public class DKPPlusInvis : MonoBehaviour {
 		Debug.Log ("Yay, You Found The Invisible Trigger. +100 DKP!");
 	}
 	
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
 	// Update is called once per frame
 	void Update () {
 		
