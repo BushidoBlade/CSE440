@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="I:\CSE440\World of Reath\Assets\Scripts\OptionsMenu_VSync.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScoreController.cs">
     <Files>
-      <File FileName="I:\CSE440\World of Reath\Assets\Scripts\OptionsMenu_Antialiasing.cs" Line="7" Column="36" />
-      <File FileName="I:\CSE440\World of Reath\Assets\Scripts\OptionsMenu_VSync.cs" Line="7" Column="34" />
+      <File FileName="Assets\Scripts\ScoreController.cs" Line="11" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
